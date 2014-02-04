@@ -1,0 +1,26 @@
+v0.42
+- Small Changes for new Tranalyzer Version. 
+
+v0.41
+- 3D Plot is faster. If its only a redraw, then the bins aren't recalculated again
+
+v0.4
+- Filter implementation for table view and feature mode. 
+You can set filters for each feature, so only flows matches the filters are used for generating plots or 
+are shown in table view.
+- PLplot 5.9.6 is available, witch works with traviz. No SVN Version of PLplot is needed anymore
+
+v0.32
+- Change Bin with of IAT and Packetsize in 3D Histo
+- Show X-Axes in 2D Stats again
+
+v0.31:
+- Flow Visualization gets updated from table view or from flow view
+- You can set the bounds for the 3D Flow Visualization
+
+v0.3:
+- Selecting of multiple flows in Flow Mode -> build Visualization with multiple modes.
+- Fixing Bug in Table View. The Close Cross and Button is working now!
+
+v0.2:
+- Changing to tranalyzer binary format. Text doesn't work anymore
